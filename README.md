@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Liutsifer.
-- 👀 I’m interested in everything related to programming in C # and Python.
+- 👀 I’m interested in everything related to programming in C#.
 - 🌱 I’m currently learning in college on the 2nd year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Email liutsifer227@gmail.com
