@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Liutsifer.
+- 👋 Hi, I’m Constantine.
 - 👀 I’m interested in everything related to programming in C#.
 - 🌱 I’m currently learning in college on the 2nd year
 - 💞️ I’m looking to collaborate on ...
