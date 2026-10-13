@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to programming in C#.
 - 🌱 I’m currently learning in college on the 2nd year
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Email liutsifer227@gmail.com
+- 📫 How to reach me? Email kostaneboga398@gmail.com
 
 <!---
 Liutsifer/Liutsifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
